@@ -1,24 +1,24 @@
-![IGRIS](https://wallpapercave.com/wp/wp4275385.jpg) 
+![IGRIS](https://images5.alphacoders.com/104/1040734.jpg) 
 # IGRISROBOT
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/AnimeKaizoku/SaitamaRobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SaitamaRobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/IGRIS_BOT1)
 
 
-A modular Telegram Python bot running on python3 with a sqlalchemy database.
+Um bot modular Telegram Python rodando em python3 com um banco de dados sqlalchemy.
 
-Originally a Marie fork, IGRIS evolved further and was built to be more robust and more dedicated to Anime Chats. 
+Originalmente um fork Marie, o IGRIS evoluiu ainda mais e foi construído para ser mais robusto e mais dedicado aos bate-papos de anime.
 
-Can be found on telegram as [IGRISROBOT](https://t.me/IGRISROBOT).
+Pode ser encontrado no telegrama como [IGRISROBOT](https://t.me/IGRISROBOT).
 
-The Support group can be reached out to at [SOLO•GUILD](https://t.me/IGRISBOTSUPPORT), where you can ask for help about [IGRISROBOT](https://t.me/IGRISBOTSUPPORT),discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+O grupo de suporte pode ser contatado em [SOLO•GUILD](https://t.me/IGRISBOTSUPPORT),onde você pode pedir ajuda sobre [IGRISROBOT](https://t.me/IGRISBOTSUPPORT),discover/request novos recursos, reportar bugs e ficar por dentro sempre que uma nova atualização estiver disponível. 
 
 
 
-## How to setup/deploy.
+## Como configurar/implantar.
 
-### Read these notes carefully before proceeding 
+### Leia estas notas cuidadosamente antes de prosseguir
 
- - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot. [See this](https://github.com/HeLLxGodLike/IGRIS_BOT/blob/shiken/SaitamaRobot/__main__.py#L25)
- - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats.
+ - Seu código deve ser de código aberto e um link para o repositório do seu fork deve estar presente na resposta inicial do bot. [See this](https://github.com/HeLLxGodLike/IGRIS_BOT/blob/shiken/SaitamaRobot/__main__.py#L25)
+ - Por último, se você executar este repositório sem que o código seja de código aberto ou o link do repositório não mencionado no bot, enviaremos um gban para você em nossa rede por estar violando a licença, você está livre para seja um idiota e não respeite o código-fonte aberto (não nos importamos), mas não teremos você em nossos chats.
 
 
 <details>
@@ -204,10 +204,10 @@ For starters click on this button
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HeLLxGodLike/IGRISROBOT.git) 
 
 
-## Credits
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
-This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
+## Créditos
+O bot é baseado no trabalho original feito por [PaulSonOfLars](https://github.com/PaulSonOfLars)
+Este repositório acabou de ser reformulado para se adequar a uma comunidade centrada em Anime. Todos os créditos originais vão para Paul e sua dedicação. Sem seus esforços, esta bifurcação não teria sido possível!
 
-Any other authorship/credits can be seen through the commits.
+Quaisquer outras autorias/créditos podem ser visualizadas através dos commits.
 
-Should any be missing kindly let us know at [IGRIS BOT SUPPORT](https://t.me/IGRISBOTSUPPORT) or simply submit a pull request on the readme.
+Caso algum esteja faltando, informe-nos em [IGRIS BOT SUPPORT](https://t.me/IGRISBOTSUPPORT) ou simplesmente envie uma solicitação de pull no leia-me.
