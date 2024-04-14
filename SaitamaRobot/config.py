@@ -11,27 +11,27 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
     
-    API_ID = 123456  
-    API_HASH = "awoo"
-    TOKEN = "BOT_TOKEN"  
-    OWNER_ID = 792109647  
-    OWNER_USERNAME = "Sawada"
-    SUPPORT_CHAT = 'OnePunchSupport'  
-    JOIN_LOGGER = -1001253661229  
-    EVENT_LOGS = -1001190806654 
+    API_ID = 21732614  
+    API_HASH = "ff91cccbb310e68d0b93320abb2d229d"
+    TOKEN = "6563345274:AAH7LT6Mqc3_ZoMiJgA-ox_s8zf_73MCxQ0"  
+    OWNER_ID = 6710268098  
+    OWNER_USERNAME = "Shadizinho"
+    SUPPORT_CHAT = 'IGRISSx_sup'  
+    JOIN_LOGGER = -1002069292433  
+    EVENT_LOGS = -1001984580263 
 
  
-    SQLALCHEMY_DATABASE_URI = 'something://somewhat:user@hosturl:port/databasename'  
+    SQLALCHEMY_DATABASE_URI = 'mongodb+srv://Igris:Ggae4304,,@igris.oxdjuul.mongodb.net/'  
     LOAD = []
     NO_LOAD = ['rss', 'cleaner', 'connection', 'math']
     WEBHOOK = False
     INFOPIC = True
     URL = None
-    SPAMWATCH_API = ""  
+    SPAMWATCH_API = "ltwfo4Z7BG3tF4vQn~sWauW6q06ZpICxEtueM09l5yceJKkR4uxPV2O8PbwY1IEs"  
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
 
     
-    DRAGONS = get_user_list('elevated_users.json', 'sudos')
+    DRAGONS = get_user_list('7080925947', '6959003848')
     
     DEV_USERS = get_user_list('elevated_users.json', 'devs')
     
@@ -45,12 +45,12 @@ class Config(object):
     DEL_CMDS = True  
     STRICT_GBAN = True
     WORKERS = 8  
-    BAN_STICKER = ''  
+    BAN_STICKER = 'CAACAgQAAxkBAAEXXIpmGojxnkWCeFAtfDs2w2ggbkOf6wACdRMAAue1kFOMHaxTFlb8_TQE'  
     ALLOW_EXCL = True  
-    CASH_API_KEY = 'awoo'  
-    TIME_API_KEY = 'awoo'  
-    WALL_API = 'awoo'  
-    AI_API_KEY = 'awoo'  
+    CASH_API_KEY = 'XDG2I0AAURMP8QXI'  
+    TIME_API_KEY = 'KNJIWN8SZBVX'  
+    WALL_API = 'https://api.alphacoders.com/3.0?type=desktop&method=wallpaper_info&id=865098'  
+    AI_API_KEY = 'AIzaSyAyNlhxI4q-fcFEH2eYUjU9xc9fYZ5Q66s'  
     BL_CHATS = []  
     SPAMMERS = None
 
